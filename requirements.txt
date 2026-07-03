@@ -1,1 +1,3 @@
-
+#requirements.txt
+snwoflake-snowpark-python
+stremlit
