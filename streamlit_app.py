@@ -1,7 +1,7 @@
 # Import python packages.
 import streamlit as st
 from snowflake.snowpark.functions import col
-import requests  
+import requests   
 
 name_on_order = st.text_input('Name on Smoothie:')
 st.write('the name on your smoothie will be:',name_on_order)
